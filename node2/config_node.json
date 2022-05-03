@@ -1,0 +1,8 @@
+{
+	"path_user": "S:/andrey/dieplom/client",
+	"path_dir": "S:/andrey/dieplom/node2",
+	"port": "5002",
+	"ipv4": "192.168.0.102",
+	"type_node":"FOA",
+	"initializing_node":"192.168.0.102:5000"
+}
